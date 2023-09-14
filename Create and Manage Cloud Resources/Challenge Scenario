@@ -1,1 +1,4 @@
+# Task 1:
+
+gcloud config set compute/region us-west3
 
