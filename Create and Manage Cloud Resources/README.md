@@ -17,4 +17,24 @@ Requirements:
 - Use an e2-micro machine type.
 - Use the default image type (Debian Linux).
 
-  
+## Task 2. Create a Kubernetes service cluster
+
+The team is building an application that will use a service running on Kubernetes. You need to:
+
+- Create a zonal cluster using <filled in at lab start>.
+- Use the Docker container hello-app (gcr.io/google-samples/hello-app:2.0) as a placeholder; the team will replace the container with their own work later.
+- Expose the app on port App port number.
+
+## Task 3. Set up an HTTP load balancer
+You will serve the site via nginx web servers, but you want to ensure that the environment is fault-tolerant. Create an HTTP load balancer with a managed instance group of 2 nginx web servers. Use the following code to configure the web servers; the team will replace this with their own configuration later.
+
+You need to:
+
+- Create an instance template.
+- Create a target pool.
+- Create a managed instance group.
+- Create a firewall rule named as Firewall rule to allow traffic (80/tcp).
+- Create a health check.
+- Create a backend service, and attach the managed instance group with named port (http:80).
+- Create a URL map, and target the HTTP proxy to route requests to your URL map.
+- Create a forwarding rule.
