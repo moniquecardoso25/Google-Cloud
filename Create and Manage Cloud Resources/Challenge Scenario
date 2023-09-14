@@ -1,4 +1,7 @@
 # Task 1:
 
+REGION
 gcloud config set compute/region us-west3
 
+ZONE 
+gcloud config  set compute/zone us-west3-a
