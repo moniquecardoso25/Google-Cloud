@@ -5,8 +5,8 @@ Default image type (Debian Linux).
 
 Task 2. Create a Kubernetes service cluster
 
-export zone=us-central1
-export region=us-central1-f
+export zone=us-east1
+export region=us-east1-b
 
 gcloud container clusters create nucleus-backend \
           --num-nodes 1 \
@@ -39,7 +39,7 @@ gcloud compute instance-groups managed create web-server-group \
 --template web-server-template \
 --region $region
 
-gcloud compute firewall-rules create accept-tcp-rule-644  \
+gcloud compute firewall-rules create permit-tcp-rule-812  \
        --allow tcp:80 \
        --network nucleus-vpc
 gcloud compute http-health-checks create http-basic-check
@@ -65,7 +65,7 @@ gcloud compute url-maps create web-server-map \
 gcloud compute target-http-proxies create http-lb-proxy \
        --url-map web-server-map
 
-gcloud compute forwarding-rules create accept-tcp-rule-644 \
+gcloud compute forwarding-rules create permit-tcp-rule-812 \
      --global \
      --target-http-proxy http-lb-proxy \
      --ports 80
