@@ -5,8 +5,8 @@ Default image type (Debian Linux).
 
 Task 2. Create a Kubernetes service cluster
 
-export zone=us-east1
-export region=us-east1-b
+export zone=us-east1-b
+export region=us-east1
 
 gcloud container clusters create nucleus-backend \
           --num-nodes 1 \
@@ -24,6 +24,14 @@ kubectl expose deployment hello-server \
           --port 8081
 
 Task 3. Set up an HTTP load balancer
+
+cat << EOF > startup.sh
+#! /bin/bash
+apt-get update
+apt-get install -y nginx
+service nginx start
+sed -i -- 's/nginx/Google Cloud Platform - '"\$HOSTNAME"'/' /var/www/html/index.nginx-debian.html
+EOF
 
 gcloud compute instance-templates create web-server-template \
        --metadata-from-file startup-script=startup.sh \
