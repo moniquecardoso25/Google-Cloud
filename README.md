@@ -8,7 +8,7 @@ Welcome to my Google Cloud Computing Repository! It contains the folders of my C
 
 1. Create and Manage Cloud Resources
 
-Description: Create an instance and host a website in the Cloud
+Description: Create an instance and host a website in the Cloud.
 
 Tools Used:
 
