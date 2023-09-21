@@ -6,6 +6,9 @@
 
 Welcome to my Google Cloud Computing Repository! It contains the folders of my Cloud Computing projects in order to show my skills.
 
+
+## Projects
+
 1. Create and Manage Cloud Resources
 
 Description: Create an instance and host a website in the Cloud.
