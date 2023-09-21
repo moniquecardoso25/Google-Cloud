@@ -6,7 +6,7 @@
 
 Welcome to my Google Cloud Computing Repository! It contains the folders of my Cloud Computing projects in order to show my skills.
 
-1. [Create and Manage Cloud Resources](https://github.com/moniquecardoso25/Data-Science-Projects/tree/main/CreateandManageCloudResources)
+1. Create and Manage Cloud Resources
 
 Description: Create an instance and host a website in the Cloud
 
