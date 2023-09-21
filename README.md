@@ -7,10 +7,17 @@
 Welcome to my Google Cloud Computing Repository! It contains the folders of my Cloud Computing projects in order to show my skills.
 
 1. [Create and Manage Cloud Resources](https://github.com/moniquecardoso25/Data-Science-Projects/tree/main/Create%20and%20Manage%20Cloud%20Resources)
-   - A website was hosted in the Cloud
-Tools learned:
-     Cloud Enginee
-     Google Kubernetes
-     Google Cloud Shell
-     Load Balancers 
+
+Description: Create an instance and host a website in the Cloud
+
+Tools Used:
+
+- Cloud Enginee
+
+- Google Kubernetes
+
+- Cloud Shell
+
+- Load Balancers and HTTP Clusters
+
   
