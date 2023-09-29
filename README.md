@@ -9,18 +9,26 @@ Welcome to my Google Cloud Computing Repository! It contains the folders of my C
 
 ## Projects
 
-1. Create and Manage Cloud Resources
+### 1. Create and Manage Cloud Resources
 
 Description: Create an instance and host a website in the Cloud.
 
-Tools Used:
+Resources Used:
 
 - Cloud Enginee
-
 - Google Kubernetes
-
 - Cloud Shell
-
 - Load Balancers 
 
+  
+### 2. Perform Foundational Infrastructure Tasks
+
+Description: Help a newly formed development team with some of their initial work in on a new project around storing and organizing photographs, called memories.
+
+Resources Used:
+
+- Cloud Storage
+- Identity and Access Management(IAM)
+- Cloud Functions
+- Pub/Sub
   
