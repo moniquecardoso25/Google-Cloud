@@ -13,6 +13,7 @@ I have been asked to assist the memories team with their initial configuration f
 
 
 - Create a bucket for storing the photographs
+  
 ![image](https://github.com/moniquecardoso25/GoogleCloud-ProfessionalArchitect/assets/140358716/b0e56f00-36f6-4c3c-8a93-8918e8f2e12d)
 
 ![image](https://github.com/moniquecardoso25/GoogleCloud-ProfessionalArchitect/assets/140358716/23e7f4d6-54e5-4bb0-8964-cb5e27edb032)
