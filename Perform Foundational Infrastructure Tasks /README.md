@@ -13,14 +13,13 @@ I have been asked to assist the memories team with their initial configuration f
 
 
 - Create a bucket for storing the photographs
- ![image](https://github.com/moniquecardoso25/GoogleCloud-ProfessionalArchitect/assets/140358716/b0e56f00-36f6-4c3c-8a93-8918e8f2e12d)
+![image](https://github.com/moniquecardoso25/GoogleCloud-ProfessionalArchitect/assets/140358716/b0e56f00-36f6-4c3c-8a93-8918e8f2e12d)
 ![image](https://github.com/moniquecardoso25/GoogleCloud-ProfessionalArchitect/assets/140358716/23e7f4d6-54e5-4bb0-8964-cb5e27edb032)
 ![image](https://github.com/moniquecardoso25/GoogleCloud-ProfessionalArchitect/assets/140358716/0bb87369-fecc-490c-a5c1-701d1bf8aa8b)
 
 
 - Create a Pub/Sub topic that will be used by a Cloud Function you create.
   ![image](https://github.com/moniquecardoso25/GoogleCloud-ProfessionalArchitect/assets/140358716/342a33b2-8ed1-4051-b4f0-4a6e61a10af9)
-
 
 
 - Create a Cloud Function
