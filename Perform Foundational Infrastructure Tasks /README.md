@@ -2,7 +2,7 @@
 
 ## Challenge scenario
 
-As a junior cloud engineer role. My task is helping teams to create and manage Google Cloud resources.
+As a Junior Cloud Engineer role. My task is helping teams to create and manage Google Cloud resources.
 
 I am expected to have the knowledge and skills for these tasks.
 
