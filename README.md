@@ -1,4 +1,4 @@
-# GoogleCloud-ProfessionalArchitect
+# GoogleCloud
 
 
 ![image](https://github.com/moniquecardoso25/GoogleCloud-ProfessionalArchitect/assets/140358716/66e1b826-30ab-49d8-875a-f03858bb2c7e)
