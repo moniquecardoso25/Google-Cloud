@@ -16,6 +16,22 @@ You will need to make sure you have:
 
 ![image](https://github.com/moniquecardoso25/Google-Cloud/assets/140358716/bc8c9a2d-3c04-4405-96d6-14be33f1ec39)
 
+Answer:
+
+bq mk lab_926
+
+gsutil mb gs://qwiklabs-gcp-04-8a5b7dd54e5a-marking
+
+gsutil cp gs://cloud-training/gsp323/lab.csv .
+cat lab.csv
+
+gsutil cp gs://cloud-training/gsp323/lab.schema .
+cat lab schema
+
+
+
+
+
 
 ### Task 2: Run a simple Dataproc job
 You have used Dataproc in the quest, now you must run another example Spark job using Dataproc.
@@ -25,9 +41,18 @@ Before you run the job, log into one of the cluster nodes and copy the /data.txt
 ![image](https://github.com/moniquecardoso25/Google-Cloud/assets/140358716/d8b99a01-1767-4881-aa27-6046bfc50969)
 
 
+
+
+
+
+
+
 ### Task 3: Use the Google Cloud Speech API
 
 Use Google Cloud Speech API to analyze the audio file gs://cloud-training/gsp323/task3.flac. Once you have analyzed the file, upload the resulting file to: Cloud Speech Location
+
+
+
 
 
 
