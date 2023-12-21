@@ -39,6 +39,7 @@ Template
 ![image](https://github.com/moniquecardoso25/Google-Cloud/assets/140358716/e6aae793-8727-483e-8c7a-8f806179d09e)
 
 Machine Type
+
 ![image](https://github.com/moniquecardoso25/Google-Cloud/assets/140358716/05de103c-9977-4205-b92d-c2598569fb17)
 
 
@@ -50,7 +51,16 @@ Before you run the job, log into one of the cluster nodes and copy the /data.txt
 
 ![image](https://github.com/moniquecardoso25/Google-Cloud/assets/140358716/d8b99a01-1767-4881-aa27-6046bfc50969)
 
+#### Create a cluster on Compute Engine
 
+Region
+
+![image](https://github.com/moniquecardoso25/Google-Cloud/assets/140358716/645bb195-90c4-4926-a76e-86dc2065391e)
+
+
+Nodes
+
+![image](https://github.com/moniquecardoso25/Google-Cloud/assets/140358716/084e09da-5369-4535-a60c-ce3097642005)
 
 
 
