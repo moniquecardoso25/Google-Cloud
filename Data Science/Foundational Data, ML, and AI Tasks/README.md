@@ -18,18 +18,28 @@ You will need to make sure you have:
 
 Answer:
 
-bq mk lab_926
+bq mk lab_711
 
-gsutil mb gs://qwiklabs-gcp-04-8a5b7dd54e5a-marking
+gsutil mb gs://qwiklabs-gcp-00-1f2ab5bbb49c-marking
 
-gsutil cp gs://cloud-training/gsp323/lab.csv .
-cat lab.csv
 
+gsutil cp gs://cloud-training/gsp323/lab.csv  .
+  
 gsutil cp gs://cloud-training/gsp323/lab.schema .
-cat lab schema
+ 
+cat lab.schema
 
+####  Create table in BigQuery
+![image](https://github.com/moniquecardoso25/Google-Cloud/assets/140358716/28db60ee-0ece-4a54-9a17-545e39785383)
 
+#### Create a Job in DataFlow
+![image](https://github.com/moniquecardoso25/Google-Cloud/assets/140358716/a8d63954-8599-4dd3-84cc-4d3542448e36)
 
+Template
+![image](https://github.com/moniquecardoso25/Google-Cloud/assets/140358716/e6aae793-8727-483e-8c7a-8f806179d09e)
+
+Machine Type
+![image](https://github.com/moniquecardoso25/Google-Cloud/assets/140358716/05de103c-9977-4205-b92d-c2598569fb17)
 
 
 
