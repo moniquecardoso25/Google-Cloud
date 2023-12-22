@@ -18,22 +18,20 @@ You will need to make sure you have:
 
 Answer:
 
-bq mk lab_711
 
-gsutil mb gs://qwiklabs-gcp-00-1f2ab5bbb49c-marking
-
-
-gsutil cp gs://cloud-training/gsp323/lab.csv  .
-  
+bq mk lab_737
+gsutil mb gs://qwiklabs-gcp-00-2784971b62ed-marking
+gsutil cp gs://cloud-training/gsp323/lab.csv .
 gsutil cp gs://cloud-training/gsp323/lab.schema .
- 
 cat lab.schema
 
+
 ####  Create table in BigQuery
-![image](https://github.com/moniquecardoso25/Google-Cloud/assets/140358716/28db60ee-0ece-4a54-9a17-545e39785383)
+![image](https://github.com/moniquecardoso25/Google-Cloud/assets/140358716/0f9a09d0-783b-4e84-8bd8-f2b7f3083e0e)
+
 
 #### Create a Job in DataFlow
-![image](https://github.com/moniquecardoso25/Google-Cloud/assets/140358716/a8d63954-8599-4dd3-84cc-4d3542448e36)
+![image](https://github.com/moniquecardoso25/Google-Cloud/assets/140358716/13e83dd4-8042-47b7-bb89-4b1739494cb2)
 
 Template
 ![image](https://github.com/moniquecardoso25/Google-Cloud/assets/140358716/e6aae793-8727-483e-8c7a-8f806179d09e)
@@ -78,3 +76,8 @@ Use Google Cloud Speech API to analyze the audio file gs://cloud-training/gsp323
 
 ### Task 4: Use the Cloud Natural Language API
 Use the Cloud Natural Language API to analyze the sentence from text about Odin. The text you need to analyze is "Old Norse texts portray Odin as one-eyed and long-bearded, frequently wielding a spear named Gungnir and wearing a cloak and a broad hat." Once you have analyzed the text, upload the resulting file to: Cloud Natural Language Location
+
+
+
+
+
