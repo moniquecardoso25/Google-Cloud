@@ -18,9 +18,8 @@ You will need to make sure you have:
 
 Answer:
 
-
-bq mk lab_737
-gsutil mb gs://qwiklabs-gcp-00-2784971b62ed-marking
+bq mk lab_191
+gsutil mb gs://qwiklabs-gcp-00-9e1d8866bc92-marking
 gsutil cp gs://cloud-training/gsp323/lab.csv .
 gsutil cp gs://cloud-training/gsp323/lab.schema .
 cat lab.schema
