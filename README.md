@@ -32,7 +32,7 @@ Resources Used:
 - Pub/Sub
 
 
-### 3. [TensorFlow](https://github.com/moniquecardoso25/Google-Cloud/tree/main/TensorFlow%20)
+### 3. [TensorFlow](https://github.com/moniquecardoso25/Google-Cloud/tree/828476662634961fd7bc527243d4ab44124dd591/TensorFlow/README.md)
 
 Description:
 
