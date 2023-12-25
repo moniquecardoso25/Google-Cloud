@@ -19,8 +19,8 @@ Resources Used:
 - Cloud Shell
 - Load Balancers 
 
-  
-### 2. Perform Foundational Infrastructure Tasks
+
+### 2. [Perform Foundational Infrastructure Tasks](https://github.com/moniquecardoso25/Google-Cloud/tree/main/Perform%20Foundational%20Infrastructure%20Tasks)
 
 Description: Help a newly formed development team with some of their initial work in on a new project around storing and organizing photographs, called memories.
 
@@ -32,19 +32,22 @@ Resources Used:
 - Pub/Sub
 
 
-### 3. TensorFlow
+### 3. [TensorFlow](https://github.com/moniquecardoso25/Google-Cloud/tree/main/TensorFlow%20)
 
 Description:
 
 Resources Used:
 
-### 4. Perform Foundational Data, ML, and AI Tasks in Google Cloud
+
+
+### 4. [Perform Foundational Data, ML, and AI Tasks in Google Cloud](https://github.com/moniquecardoso25/Google-Cloud/tree/main/Perform%20Foundational%20Data,%20ML,%20and,%20AI%20Tasks%in%Google%Cloud)
 
 Description:
 
 Resources Used:
 
-### 5. Build and Deploy Machine Learning Solutions on Vertex AI
+
+### 5. [Build and Deploy Machine Learning Solutions on Vertex AI](https://github.com/moniquecardoso25/Google-Cloud/tree/main/Build%20and%20Deploy%20Machine%20Learning%20Solutions%20on%Vertex%AI)
 
 Description:
 
