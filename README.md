@@ -8,7 +8,7 @@ Welcome to my Google Cloud Computing Repository! It contains the folders of my C
 
 ## Projects
 
-### 1. [Create and Manage Cloud Resources](https://github.com/moniquecardoso25/Google-Cloud/tree/main/Create%20and%20Manage%20Cloud%20Resources)
+### 1. [Create and Manage Cloud Resources](https://github.com/moniquecardoso25/Google-Cloud/tree/main/Create%20and%20Manage%20Cloud%20Resources/README.md)
 
 Description: Create an instance and host a website in the Cloud.
 
@@ -47,8 +47,7 @@ Description:
 Resources Used:
 
 
-### 5. [Build and Deploy Machine Learning Solutions on Vertex AI](https://github.com/moniquecardoso25/Google-Cloud/tree/main/Build%20and%20Deploy%20Machine%20Learning%20Solutions%20on%Vertex%AI)
-
+### 5. [Build and Deploy Machine Learning Solutions on Vertex AI](https://github.com/moniquecardoso25/Google-Cloud/tree/00a0f8817400298cf6f67dc9f84579e3bf5f7c7a/Build%20and%20Deploy%20Machine%20Learning%20Solutions%20on%20Vertex%20A/README.md)
 Description:
 
 Resources Used:
