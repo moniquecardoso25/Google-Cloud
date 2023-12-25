@@ -1,4 +1,4 @@
-# GoogleCloud
+# Google Cloud Projects
 
 
 ![image](https://github.com/moniquecardoso25/GoogleCloud-ProfessionalArchitect/assets/140358716/66e1b826-30ab-49d8-875a-f03858bb2c7e)
@@ -7,7 +7,6 @@
 Welcome to my Google Cloud Computing Repository! It contains the folders of my Cloud Computing projects in order to show my skills.
 
 
-## Projects
 
 ### 1. Create and Manage Cloud Resources
 
@@ -33,7 +32,29 @@ Resources Used:
 - Pub/Sub
 
 
-  # 3. TensorFlow
+### 3. TensorFlow
+
+Description:
+
+Resources Used:
+
+### 4. Perform Foundational Data, ML, and AI Tasks in Google Cloud
+
+Description:
+
+Resources Used:
+
+### 5. Build and Deploy Machine Learning Solutions on Vertex AI
+
+Description:
+
+Resources Used:
+
+#### 5.1 - Identify Damaged Car Parts with Vertex AutoML Vision
+
+#### 5.2 - Identify Damaged Car Parts with Vertex AutoML Vision
+
+#### 5.3 - Deploy a BigQuery ML Customer Churn Classifier to Vertex AI for Online Predictions
 
 
-  # 4. Perform Data
+
