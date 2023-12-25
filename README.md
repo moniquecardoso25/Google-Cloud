@@ -20,7 +20,7 @@ Resources Used:
 - Load Balancers 
 
 
-### 2. [Perform Foundational Infrastructure Tasks](https://github.com/moniquecardoso25/Google-Cloud/blob/c304ae0b6805f9213c76710723a24570b87f6c9c/Perform%20Foundational%20Infrastructure%20Tasks%20/)
+### 2. [Perform Foundational Infrastructure Tasks](https://github.com/moniquecardoso25/Google-Cloud/blob/c304ae0b6805f9213c76710723a24570b87f6c9c/Perform%20Foundational%20Infrastructure%20Tasks%20/README.md)
 
 Description: Help a newly formed development team with some of their initial work in on a new project around storing and organizing photographs, called memories.
 
