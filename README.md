@@ -47,7 +47,7 @@ Description:
 Resources Used:
 
 
-### 5. [Build and Deploy Machine Learning Solutions on Vertex AI](https://github.com/moniquecardoso25/Google-Cloud/blob/e56372951d179db8d8867d9a50e6a05746ca96da/Build%20and%20Deploy%20Machine%20Learning%20Solutions%20on%20Vertex%20AI/README.md)
+### 5. [Build and Deploy Machine Learning Solutions on Vertex AI](https://github.com/moniquecardoso25/Google-Cloud/blob/bca8d1cfef10970d1386bf0ea8264faf84d14328/Build%20and%20Deploy%20Machine%20Learning%20Solutions%20on%20Vertex%20AI/README.md)
 
 Description:
 
