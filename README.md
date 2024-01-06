@@ -34,23 +34,14 @@ Resources Used:
 
 ### 3. [TensorFlow](https://github.com/moniquecardoso25/Google-Cloud/tree/828476662634961fd7bc527243d4ab44124dd591/TensorFlow/README.md)
 
-Description:
+Description: Tensorflow on Google Cloud
 
 Resources Used:
+- Tensorflow
+- Python
+- Vertex
 
 
-
-### 4. [Build and Deploy Machine Learning Solutions on Vertex AI](https://github.com/moniquecardoso25/Google-Cloud/blob/bca8d1cfef10970d1386bf0ea8264faf84d14328/Build%20and%20Deploy%20Machine%20Learning%20Solutions%20on%20Vertex%20AI/README.md)
-
-Description:
-
-Resources Used:
-
-#### 5.1 - Identify Damaged Car Parts with Vertex AutoML Vision
-
-#### 5.2 - Identify Damaged Car Parts with Vertex AutoML Vision
-
-#### 5.3 - Deploy a BigQuery ML Customer Churn Classifier to Vertex AI for Online Predictions
 
 
 
