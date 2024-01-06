@@ -40,14 +40,7 @@ Resources Used:
 
 
 
-### 4. [Foundational Data, ML, and AI Tasks in Google Cloud](https://github.com/moniquecardoso25/Google-Cloud/tree/828476662634961fd7bc527243d4ab44124dd591/Foundational%20Data%2C%20ML%2C%20and%20AI%20Tasks/README.md)
-
-Description:
-
-Resources Used:
-
-
-### 5. [Build and Deploy Machine Learning Solutions on Vertex AI](https://github.com/moniquecardoso25/Google-Cloud/blob/bca8d1cfef10970d1386bf0ea8264faf84d14328/Build%20and%20Deploy%20Machine%20Learning%20Solutions%20on%20Vertex%20AI/README.md)
+### 4. [Build and Deploy Machine Learning Solutions on Vertex AI](https://github.com/moniquecardoso25/Google-Cloud/blob/bca8d1cfef10970d1386bf0ea8264faf84d14328/Build%20and%20Deploy%20Machine%20Learning%20Solutions%20on%20Vertex%20AI/README.md)
 
 Description:
 
