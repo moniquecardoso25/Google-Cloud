@@ -34,12 +34,13 @@ Resources Used:
 
 ### 3. [TensorFlow](https://github.com/moniquecardoso25/Google-Cloud/tree/828476662634961fd7bc527243d4ab44124dd591/TensorFlow/README.md)
 
-Description: Tensorflow on Google Cloud
+Description: Build simple machine learning models with TensorFlow while simultaneously walking through how to leverage Vertex AI to build and deploy your models and interact with Vertex AI Workbench user-managed notebooks.
 
 Resources Used:
-- Tensorflow
-- Python
-- Vertex
+
+- TensorFlow
+- Jupyter Notebooks
+- Vertex AI Workbench
 
 
 
