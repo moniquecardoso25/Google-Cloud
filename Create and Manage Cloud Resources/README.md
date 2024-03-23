@@ -1,6 +1,6 @@
 # Chalenge Scenario - Lab
 
-## Credits
+### Credits
 - Google Skill Boost - Quicklabs
 - Challenge lab from Badge: Create and Manage Cloud Resources
 
