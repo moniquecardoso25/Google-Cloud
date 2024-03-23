@@ -32,7 +32,7 @@ Resources Used:
 - Pub/Sub
 
 
-### 3. [TensorFlow](https://github.com/moniquecardoso25/Google-Cloud/tree/828476662634961fd7bc527243d4ab44124dd591/TensorFlow/README.md)
+### 3. [TensorFlow](https://github.com/moniquecardoso25/Google-Cloud/tree/994172b860f2c1d46d23eb4c63d877e7a5b3be12/TensorFlow)
 
 Description: Build a simple machine learning models with TensorFlow while simultaneously walking through how to leverage Vertex AI to build and deploy your models and interact with Vertex AI Workbench user-managed notebooks.
 
