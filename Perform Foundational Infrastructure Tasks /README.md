@@ -1,5 +1,9 @@
 # Perform Foundational Infrastructure Tasks in Google Cloud
 
+### Credits
+- Google Skill Boost - Quicklabs
+- Challenge Lab from Badge: Perform Foundational Infrastructure Tasks
+
 ## Challenge scenario
 
 As a Junior Cloud Engineer role. My task is helping teams to create and manage Google Cloud resources.
