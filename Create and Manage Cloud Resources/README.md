@@ -1,5 +1,10 @@
 # Chalenge Scenario - Lab
 
+## Credits
+- Google Skill Boost - Quicklabs
+- Challenge lab from Badge: Create and Manage Cloud Resources
+
+
 You've taken on the role of a Junior Cloud Engineer at Jooli, where your responsibilities include managing the company's infrastructure. This involves tasks like provisioning resources for projects.
 
 In order to excel in this role, you're expected to possess the necessary skills and knowledge. Detailed, step-by-step guides won't be provided, so you should be adept at carrying out these tasks independently.
