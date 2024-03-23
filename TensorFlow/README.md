@@ -1,5 +1,8 @@
 # TensorFlow on Google Cloud
 
+### Credits
+- Google Skill Boost - Quicklabs
+- Labs from Badge: Get get started with Tensorflow on Google Cloud
 
 This Badge shows how to use TensorFlow and Vertex AI, teaching how to build simple machine learning models with TensorFlow while simultaneously walking through how to leverage Vertex AI to build and deploy your models and interact with Vertex AI Workbench user-managed notebooks.
 
